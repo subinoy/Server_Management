@@ -1,4 +1,4 @@
-# Server Management Guide
+# RStudio Server Access Guide
 
 This repository provides clear and concise instructions for accessing and managing the RStudio Server within the IRCMS network. All IP addresses have been anonymized for security. Please replace any placeholders (`10.0.0.10`, `vpn.example.com`) with your actual, assigned values.
 
