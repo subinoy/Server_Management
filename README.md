@@ -69,6 +69,8 @@ Once connected, proceed to the SSH Tunnel Setup below.
 
 After VPN connection, you need to forward the RStudio port (`8787`) to your local machine. Replace `<USER>` with your actual RStudio username.
 
+ <img src="images/image5.jpg" width="800" height="400" />
+
 ### Windows (MobaXterm)
 
 1. Open MobaXterm and start a new terminal session.
