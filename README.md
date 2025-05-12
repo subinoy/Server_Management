@@ -80,6 +80,7 @@ After VPN connection, you need to forward the RStudio port (`8787`) to your loca
    ```bash
    ssh -L 8787:localhost:8787 <USER>@10.0.0.10
    ```
+   <img src="images/image3.jpg" width="800" height="400" />
 
 3. After successful login, open your browser and go to:
 
@@ -87,9 +88,10 @@ After VPN connection, you need to forward the RStudio port (`8787`) to your loca
    http://localhost:8787
    ```
 
-   ![SSH tunneling in MobaXterm](images/image2.png)
+   ![SSH tunneling in MobaXterm](images/image3.png)
+   
 
-4. Enter your RStudio credentials to access the IDE.
+5. Enter your RStudio credentials to access the IDE.
 
    ![RStudio via SSH on Windows](images/image3.jpeg)
 
