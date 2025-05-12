@@ -44,7 +44,7 @@ This repository provides clear and concise instructions for accessing and managi
 5. You will be presented with the familiar RStudio IDE in your browser.
 
    ![RStudio session (internal)](images/image1.png)
-
+    <img src="images/image1.jpg" width="800" height="400" />
 ---
 
 ## External Access (via VPN)
